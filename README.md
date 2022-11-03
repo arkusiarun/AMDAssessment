@@ -1,5 +1,15 @@
 # AMDAssessment
 
+Information Asked For:
+1) RSA public key File Name: public_rsa.txt
+2) RSA private  Key File Name: private_rsa.txt
+3) Hex Code of File: 82015090f4d59764c0526e40eba8a0f9371bfc412af7f3fd1acc855743505d21 
+4) Hex Code File Name: sha_hex.txt
+5) Original File for Encryption: imageFile.jpg
+6) Encrypted File Name: encryptedFile
+7) Decrypted File Name: decryptedFile.jpg
+
+
 All the Outputs Can be Found in output directory.
 
 1.     Application to generate an RSA key pair, key size = 2048 bits (Standard Java library can be used to generate all keys and hashes).
